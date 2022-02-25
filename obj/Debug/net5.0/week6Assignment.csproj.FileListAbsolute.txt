@@ -1,0 +1,16 @@
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.exe
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.deps.json
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.runtimeconfig.json
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.runtimeconfig.dev.json
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.dll
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\ref\week6Assignment.dll
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\bin\Debug\net5.0\week6Assignment.pdb
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.csproj.AssemblyReference.cache
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.AssemblyInfoInputs.cache
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.AssemblyInfo.cs
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.csproj.CoreCompileInputs.cache
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.dll
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\ref\week6Assignment.dll
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.pdb
+C:\Users\S7718424\source\repos\tcantello\week6Assignment\obj\Debug\net5.0\week6Assignment.genruntimeconfig.cache
