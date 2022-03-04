@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Program - week6Assignment
+Programer - Toby Cantello
+Date Created - 2/25/2022
+Last Date Updated - 3/4/2022
+*/
+
+
+using System;
 using System.Collections.Generic;
 
 namespace week6Assignment
@@ -19,22 +27,26 @@ namespace week6Assignment
             {
                 Console.WriteLine("Enter a name. To finish hit the ENTER button with no name entered.");
                 input = Console.ReadLine();
-
-                Friends.Add(input); 
+                
+                if (input != "")
+                {
+                    Friends.Add(input);
+                }
+                 
                 
             } while (input != "");
 
-            if (Friends.Count - 1 == 1)
+            if (Friends.Count == 1)
             {
                 Console.WriteLine(Friends[0] + " likes your post");
             }
-            else if (Friends.Count - 1 == 2)
+            else if (Friends.Count == 2)
             {
                 Console.WriteLine(Friends[0] + " and " + Friends[1] + "likes your post");
             }
             else
             {
-                Console.WriteLine(Friends[0] + " , " + Friends[1] + " and " + (Friends.Count - 3) +" others like your post.");
+                Console.WriteLine(Friends[0] + " , " + Friends[1] + " and " + (Friends.Count - 2) +" others like your post.");
             }
             Console.WriteLine();
             Console.WriteLine();
