@@ -13,6 +13,7 @@ namespace week6Assignment
 {
     class Program
     {
+        private static Random random;
         static void ProblemOne()
         {
             string input = "";
@@ -46,12 +47,20 @@ namespace week6Assignment
             }
             else
             {
-                Console.WriteLine(Friends[0] + " , " + Friends[1] + " and " + (Friends.Count - 2) +" others like your post.");
+                Console.WriteLine(Friends[RandomFriend(Friends)] + " , " + Friends[RandomFriend(Friends)] + " and " + (Friends.Count - 2) +" others like your post.");
             }
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
         }
+        static int RandomFriend(List<string> Friends)
+        {
+            Random random = new Random();
+
+            int randomOutput = random.Next(1, Friends.Count);
+
+            return randomOutput;
+        } 
         static void ProblemTwo()
         {
             Dictionary<char, int> letters = new Dictionary<char, int>();
